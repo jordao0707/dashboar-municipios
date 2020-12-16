@@ -1,5 +1,5 @@
 import React from 'react';
-import './Tabela.css'
+//import './Tabela.css'
 import DataTable, { defaultThemes } from 'react-data-table-component';
 
 
