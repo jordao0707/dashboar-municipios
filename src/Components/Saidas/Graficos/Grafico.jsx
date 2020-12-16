@@ -1,7 +1,7 @@
 import React from 'react'
 import Chart from "chart.js"
 
-import "./Grafico.css"
+//import "./Grafico.css"
 
 
 function createConfig(name, type, ChartData) {
