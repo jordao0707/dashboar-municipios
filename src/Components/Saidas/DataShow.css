@@ -1,0 +1,28 @@
+
+/* di = data input */
+/* data show numericos */
+.dsn{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  
+}
+/* data show grafico */
+.dsg{
+    width: 48%;
+    height: 208px;
+    display: inline-block;
+    margin-left: 6px;
+}
+  
+/* data show restante */
+.dsr{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}   
+/* data show tabela */
+.dst{
+    max-width: 480px;
+    max-height: 320px;
+    overflow: auto auto;
+}
+  

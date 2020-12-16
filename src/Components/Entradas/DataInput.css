@@ -1,0 +1,11 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* di = data input */
+.di{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+}
